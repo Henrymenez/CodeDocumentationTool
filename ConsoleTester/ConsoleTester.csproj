@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DocumentationAttribute\DocumentationAttribute.csproj" />
+  </ItemGroup>
+
 </Project>
