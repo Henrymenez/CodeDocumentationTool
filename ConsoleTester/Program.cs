@@ -1,4 +1,5 @@
-﻿using DocumentationAttribute.Data;
+﻿using DocumentationAttribute.Implementation;
+
 namespace ConsoleTester
 {
     internal class Program
@@ -6,7 +7,8 @@ namespace ConsoleTester
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Person.Display();
+            DocumentedAtrribute documentedAtrribute = new DocumentedAtrribute();
+            documentedAtrribute.GetDocs();
         }
     }
 }
