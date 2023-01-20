@@ -7,8 +7,8 @@ namespace ConsoleTester
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            DocumentedAtrribute documentedAtrribute = new DocumentedAtrribute();
-            documentedAtrribute.GetDocs();
+            // DocumentedAtrribute documentedAtrribute = new DocumentedAtrribute();
+            DocumentedAtrribute.GetDocs();
         }
     }
 }

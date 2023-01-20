@@ -7,7 +7,7 @@ namespace DocumentationAttribute.Implementation
 {
    public class DocumentedAtrribute
     {
-        public  void GetDocs()
+        public static void GetDocs()
         {
             var assemblies = AppDomain.CurrentDomain.GetAssemblies();
             foreach (var assembly in assemblies)
