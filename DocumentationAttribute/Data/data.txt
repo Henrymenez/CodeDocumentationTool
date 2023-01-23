@@ -1,0 +1,96 @@
+Type name: Person 
+ Member Type: Method 
+Name: Display 
+ Description: This method creates an instance of a Person and also display the information on the console.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: Default constructor with no parameter.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: A Second Constructor overload with four parameter
+Type name: Person 
+ Member Type: Property 
+Name: FirstName 
+ Description: FirstName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: LastName 
+ Description: LastName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Email 
+ Description: Email Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Age 
+ Description: Gender Property of the Person Model.
+Type name: Person 
+ Member Type: Field 
+Name: persons 
+ Description: This list holds information about users.
+Type name: Person 
+ Member Type: Method 
+Name: Display 
+ Description: This method creates an instance of a Person and also display the information on the console.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: Default constructor with no parameter.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: A Second Constructor overload with four parameter
+Type name: Person 
+ Member Type: Property 
+Name: FirstName 
+ Description: FirstName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: LastName 
+ Description: LastName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Email 
+ Description: Email Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Age 
+ Description: Gender Property of the Person Model.
+Type name: Person 
+ Member Type: Field 
+Name: persons 
+ Description: This list holds information about users.
+Type name: Person 
+ Member Type: Method 
+Name: Display 
+ Description: This method creates an instance of a Person and also display the information on the console.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: Default constructor with no parameter.
+Type name: Person 
+ Member Type: Constructor 
+Name: .ctor 
+ Description: A Second Constructor overload with four parameter
+Type name: Person 
+ Member Type: Property 
+Name: FirstName 
+ Description: FirstName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: LastName 
+ Description: LastName Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Email 
+ Description: Email Property of the Person Model.
+Type name: Person 
+ Member Type: Property 
+Name: Age 
+ Description: Gender Property of the Person Model.
+Type name: Person 
+ Member Type: Field 
+Name: persons 
+ Description: This list holds information about users.
